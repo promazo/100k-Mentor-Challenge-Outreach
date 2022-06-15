@@ -18,6 +18,7 @@ All of the steps in the process have been approved by Brett
 
 
 **Process**
+- [ ] Review the interview in its entirety 
 - [ ] Thank you note to the participant
 - [ ] Quick clip (30s) that shows the interviewee some of the raw footage/a particularly interesting part of the discussion
 - [ ] ID potential contacts
